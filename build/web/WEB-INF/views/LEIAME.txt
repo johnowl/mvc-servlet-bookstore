@@ -1,0 +1,6 @@
+Olá Avaliador!
+
+Coloquei as views nesse diretório para evitar acesso direto aos arquivos JSP.
+Dessa forma os usuários são obrigados a passarem pelos controllers.
+
+Abraço!

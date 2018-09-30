@@ -1,0 +1,9 @@
+CREATE TABLE Usuarios (
+    codigo SERIAL NOT NULL,
+    email VARCHAR(100) NOT NULL,
+    nome VARCHAR(100) NOT NULL,
+    senha VARCHAR(100) NOT NULL,
+    pontuacao INT NOT NULL DEFAULT 0,
+    CONSTRAINT PK_USUARIOS PRIMARY KEY(codigo),
+    CONSTRAINT UQ_EMAIL UNIQUE(email)
+);

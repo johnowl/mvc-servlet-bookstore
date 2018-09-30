@@ -1,0 +1,6 @@
+<dataset>    
+    <usuarios codigo="1" email="joao@email.com" nome="João da Silva" senha="abc" pontuacao="0" />
+    <usuarios codigo="2" email="maria@email.com" nome="Maria Tereza" senha="abc" pontuacao="0" />
+    <leituras />
+    <trofeus />    
+</dataset>

@@ -1,0 +1,9 @@
+<dataset> 
+    <usuarios codigo="1" email="joao@email.com" nome="João da Silva" senha="abc" pontuacao="0" />
+    <usuarios codigo="2" email="maria@email.com" nome="Maria Tereza" senha="abc" pontuacao="0" />
+    <livros codigo="2" titulo="Domain Driven Design" autor="Eric Evans" foto="https://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=9410697&#38;qld=90&#38;l=430&#38;a=-1" estilo="Programação" paginas="528" />
+    <livros codigo="3" titulo="Programação Extrema" autor="Kent Beck" foto="https://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=149901&#38;qld=90&#38;l=430&#38;a=-1" estilo="Programação" paginas="182" />
+    <livros codigo="4" titulo="Refactoring" autor="Martin Fowler" foto="https://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=8331901&#38;qld=90&#38;l=430&#38;a=-1=100276" estilo="Programação" paginas="455" />
+    <livros codigo="5" titulo="Working Effectively with Legacy Code" autor="Michael Feathers" foto="https://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=243836&#38;qld=90&#38;l=430&#38;a=-1" estilo="Programação" paginas="456" />
+    <livros codigo="7" titulo="Clean Code" autor="Robert C. Martin" foto="https://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=9769982&#38;qld=90&#38;l=430&#38;a=-1=100428" estilo="Programação" paginas="464" />    
+</dataset>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/johno/Documents/NetBeansProjects/EsseEuJaLi/test/br/ita/joaopaulo/esseeujali/aceitacao/US3_VisualizarLivro.java</file>
+            <file>file:/C:/Users/johno/Documents/NetBeansProjects/EsseEuJaLi/src/java/br/ita/joaopaulo/esseeujali/controllers/LoginController.java</file>
+            <file>file:/C:/Users/johno/Documents/NetBeansProjects/EsseEuJaLi/src/java/br/ita/joaopaulo/esseeujali/sql/010_Usuarios.sql</file>
+            <file>file:/C:/Users/johno/Documents/NetBeansProjects/EsseEuJaLi/test/br/ita/joaopaulo/esseeujali/aceitacao/US2_VisualizarListaLivros.java</file>
+            <file>file:/C:/Users/johno/Documents/NetBeansProjects/EsseEuJaLi/src/java/br/ita/joaopaulo/esseeujali/sql/030_Leituras.sql</file>
+            <file>file:/C:/Users/johno/Documents/NetBeansProjects/EsseEuJaLi/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/johno/Documents/NetBeansProjects/EsseEuJaLi/web/WEB-INF/views/perfil.jsp</file>
+            <file>file:/C:/Users/johno/Documents/NetBeansProjects/EsseEuJaLi/src/java/br/ita/joaopaulo/esseeujali/repository/PontuacaoRepository.java</file>
+            <file>file:/C:/Users/johno/Documents/NetBeansProjects/EsseEuJaLi/test/br/ita/joaopaulo/esseeujali/aceitacao/US5_VisualizarRankingUsuarios.java</file>
+            <file>file:/C:/Users/johno/Documents/NetBeansProjects/EsseEuJaLi/test/br/ita/joaopaulo/esseeujali/aceitacao/US6_VisualizarPerfil.java</file>
+            <file>file:/C:/Users/johno/Documents/NetBeansProjects/EsseEuJaLi/web/WEB-INF/views/livro.jsp</file>
+            <file>file:/C:/Users/johno/Documents/NetBeansProjects/EsseEuJaLi/web/WEB-INF/views/ranking.jsp</file>
+            <file>file:/C:/Users/johno/Documents/NetBeansProjects/EsseEuJaLi/src/java/br/ita/joaopaulo/esseeujali/repository/SqlLivrosRepository.java</file>
+            <file>file:/C:/Users/johno/Documents/NetBeansProjects/EsseEuJaLi/src/java/br/ita/joaopaulo/esseeujali/controllers/RegistroLeituraController.java</file>
+            <file>file:/C:/Users/johno/Documents/NetBeansProjects/EsseEuJaLi/src/java/br/ita/joaopaulo/esseeujali/repository/SqlPontuacaoRepository.java</file>
+            <file>file:/C:/Users/johno/Documents/NetBeansProjects/EsseEuJaLi/src/java/br/ita/joaopaulo/esseeujali/repository/SqlRepository.java</file>
+            <file>file:/C:/Users/johno/Documents/NetBeansProjects/EsseEuJaLi/web/WEB-INF/views/livros.jsp</file>
+            <file>file:/C:/Users/johno/Documents/NetBeansProjects/EsseEuJaLi/src/java/br/ita/joaopaulo/esseeujali/sql/020_Livros.sql</file>
+            <file>file:/C:/Users/johno/Documents/NetBeansProjects/EsseEuJaLi/src/java/br/ita/joaopaulo/esseeujali/model/Usuario.java</file>
+            <file>file:/C:/Users/johno/Documents/NetBeansProjects/EsseEuJaLi/test/br/ita/joaopaulo/esseeujali/model/LivroServiceTest.java</file>
+            <file>file:/C:/Users/johno/Documents/NetBeansProjects/EsseEuJaLi/test/br/ita/joaopaulo/esseeujali/aceitacao/US4_MarcarLeituraLivro.java</file>
+            <file>file:/C:/Users/johno/Documents/NetBeansProjects/EsseEuJaLi/src/java/br/ita/joaopaulo/esseeujali/model/UsuarioService.java</file>
+            <file>file:/C:/Users/johno/Documents/NetBeansProjects/EsseEuJaLi/test/leituras.xml</file>
+            <file>file:/C:/Users/johno/Documents/NetBeansProjects/EsseEuJaLi/src/java/br/ita/joaopaulo/esseeujali/model/Livro.java</file>
+            <file>file:/C:/Users/johno/Documents/NetBeansProjects/EsseEuJaLi/src/java/br/ita/joaopaulo/esseeujali/model/PontuacaoService.java</file>
+            <file>file:/C:/Users/johno/Documents/NetBeansProjects/EsseEuJaLi/src/java/br/ita/joaopaulo/esseeujali/sql/040_Trofeus.sql</file>
+            <file>file:/C:/Users/johno/Documents/NetBeansProjects/EsseEuJaLi/test/br/ita/joaopaulo/esseeujali/aceitacao/US1_LogarUsuario.java</file>
+            <file>file:/C:/Users/johno/Documents/NetBeansProjects/EsseEuJaLi/test/br/ita/joaopaulo/esseeujali/aceitacao/AceitacaoBase.java</file>
+            <file>file:/C:/Users/johno/Documents/NetBeansProjects/EsseEuJaLi/test/br/ita/joaopaulo/esseeujali/model/FakeLivrosRepository.java</file>
+            <file>file:/C:/Users/johno/Documents/NetBeansProjects/EsseEuJaLi/test/usuarios.xml</file>
+            <file>file:/C:/Users/johno/Documents/NetBeansProjects/EsseEuJaLi/src/java/br/ita/joaopaulo/esseeujali/controllers/ListaLivrosController.java</file>
+            <file>file:/C:/Users/johno/Documents/NetBeansProjects/EsseEuJaLi/src/java/br/ita/joaopaulo/esseeujali/repository/SqlUsuarioRepository.java</file>
+            <file>file:/C:/Users/johno/Documents/NetBeansProjects/EsseEuJaLi/src/java/br/ita/joaopaulo/esseeujali/controllers/DetalhesLivroController.java</file>
+            <file>file:/C:/Users/johno/Documents/NetBeansProjects/EsseEuJaLi/test/br/ita/joaopaulo/esseeujali/model/PontuacaoServiceTest.java</file>
+            <file>file:/C:/Users/johno/Documents/NetBeansProjects/EsseEuJaLi/src/java/br/ita/joaopaulo/esseeujali/controllers/RankingController.java</file>
+            <file>file:/C:/Users/johno/Documents/NetBeansProjects/EsseEuJaLi/src/java/br/ita/joaopaulo/esseeujali/model/LivroService.java</file>
+            <file>file:/C:/Users/johno/Documents/NetBeansProjects/EsseEuJaLi/test/br/ita/joaopaulo/esseeujali/model/FakePontuacaoRepository.java</file>
+            <file>file:/C:/Users/johno/Documents/NetBeansProjects/EsseEuJaLi/src/java/br/ita/joaopaulo/esseeujali/controllers/PerfilController.java</file>
+            <file>file:/C:/Users/johno/Documents/NetBeansProjects/EsseEuJaLi/web/WEB-INF/views/login.jsp</file>
+        </group>
+    </open-files>
+</project-private>
